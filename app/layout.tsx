@@ -1,15 +1,10 @@
 "use client";
-import type { Metadata } from "next";
 import "./globals.css";
 import { useEffect, useState } from "react";
 import Loader from "@/components/Loader";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
-const  Metadata = {
-  title: "Maa Kali Shree Balajee Babosaa Mandir",
-  description: "",
-};
 
 export default function RootLayout({
   children,
