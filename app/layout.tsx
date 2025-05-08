@@ -6,7 +6,7 @@ import Loader from "@/components/Loader";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
-const metadata: Metadata = {
+const  Metadata = {
   title: "Maa Kali Shree Balajee Babosaa Mandir",
   description: "",
 };
